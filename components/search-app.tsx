@@ -38,7 +38,7 @@ export default function SearchApp() {
   return (
     <div className="min-h-screen bg-[#F3F5F7] text-[#16212E]">
       <header className="flex items-center justify-between border-b border-[#D5DBE1] bg-white px-6 py-3">
-        <div className="font-serif text-xl font-semibold tracking-tight">Where Did I See that?</div>
+        <div className="font-serif text-xl font-semibold tracking-tight">Where Did I See That?</div>
         <Button variant="outline" size="sm">
           <Upload className="mr-2 size-4" />
           Add files
